@@ -1,2 +1,3 @@
 # hello-world
 Testing my 2nd repository...
+Hi! I'm testing a repository in order to learn how to use this. I can use *italics* like this and **bold** like that!
